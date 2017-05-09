@@ -8,9 +8,11 @@ For compilation and use:
 
 1.  situated in root for compilation: "make".
 
+
 For use: 
-  First execute "./ocultar"
   
-  Then, to reveal message "./revelar"
+  First execute "./ocultar".
+  
+  Then, to reveal message "./revelar".
   
 The project is very improved.

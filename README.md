@@ -11,8 +11,8 @@ For compilation and use:
 
 For use: 
   
-  First execute "./ocultar".
+  First, to hide message: "./ocultar".
   
-  Then, to reveal message "./revelar".
+  Then, to reveal message: "./revelar".
   
 The project is very improved.

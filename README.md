@@ -10,6 +10,7 @@ For compilation and use:
 
 For use: 
   First execute "./ocultar"
+  
   Then, to reveal message "./revelar"
   
 The project is very improved.
